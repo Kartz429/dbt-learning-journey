@@ -1,36 +1,23 @@
 
 # 🚀 DBT Learning Journey
 
-Generated automatically from my DBT hands-on project.
+Generated automatically from my DBT project.
 
 ## Topics Covered
 
 ✅ DBT Basics
-
 ✅ Project Structure
-
-✅ Bronze / Silver / Gold
-
+✅ Bronze Silver Gold
 ✅ source()
-
 ✅ ref()
-
-✅ Testing
-
+✅ Tests
 ✅ Jinja
-
 ✅ Macros
-
 ✅ Seeds
-
 ✅ Snapshots
-
 ✅ Incremental Models
-
-✅ Fact & Dimension Tables
-
+✅ Fact Tables
+✅ Dimension Tables
 ✅ Star Schema
-
 ✅ DAG
-
 ✅ CI/CD
